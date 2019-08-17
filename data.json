@@ -1,25 +1,25 @@
 {
-    "name": "Bharat Agarwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
+    "name": "Abhishek Verma",
+    "title": "Full Stack Developer",
     "intro": "Some introduction of yours and it can be as much as large",
     "skills": [{
-            "title": "Skill 1",
+            "title": "ReactJs",
             "rating": "90"
         },
         {
-            "title": "Skill 2",
+            "title": "HTML",
             "rating": "97"
         },
         {
-            "title": "Skill 3",
-            "rating": "85"
+            "title": "CSS",
+            "rating": "91"
         },{
-            "title": "Skill 1",
+            "title": "JavaScript",
             "rating": "90"
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
+        "location": "Lovely Professional University",
         "phone": "xxxxxxxxxx",
         "email": "xxxxxx@xxxx.xxx"
     }
